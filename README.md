@@ -1,2 +1,9 @@
-# Wifirelay-PC-Power-Button-ESP8266
+# Wifirelay-PC-Power-Button-ESP8266 v1.0
 ESP8266 D1 Mini Automatization PC Power Button
+Pide la asistencia de @GeorgeK55 en caso de que necesites soporte tecnico, o escrimebe a mi instagram @Avsolem si necesitas ayuda
+
+Recuerda instalar el json en Archivo > Preferencias > Gestor de URLs Adicionales de Tarjetas y copiar la url dentro
+
+Selecciona tu placa base (en mi caso Lolin (Wemos) D1 R2 & mini) y añade tus configuraciones en los apartados marcados con # (#YOUR SSID, #YOURWIFIPASS, #YOURAIOKEY)
+
+
