@@ -6,4 +6,4 @@ Recuerda instalar el json en Archivo > Preferencias > Gestor de URLs Adicionales
 
 Selecciona tu placa base (en mi caso Lolin (Wemos) D1 R2 & mini) y añade tus configuraciones en los apartados marcados con # (#YOUR SSID, #YOURWIFIPASS, #YOURAIOKEY)
 
-
+![ESP8266 D1 Mini](https://www.ardubitronics.com/464-large_default/wemos-d1-mini.jpg)
